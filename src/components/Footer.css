@@ -1,0 +1,40 @@
+.footer {
+    padding: 36px 7%;
+    background: #183234;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer img {
+    width: 140px;
+    background: white;
+    padding: 8px;
+    border-radius: 14px;
+}
+
+.footer-links,
+.socials {
+    display: flex;
+    gap: 18px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.footer a:hover {
+    color: #e85b2a;
+}
+
+.footer p {
+    margin: 0;
+    opacity: 0.8;
+    text-align: center;
+}

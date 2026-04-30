@@ -1,0 +1,21 @@
+.cta-section {
+    padding: 90px 7%;
+    background: #1f7188;
+    color: white;
+    text-align: center;
+}
+
+.cta-section h2 {
+    font-size: clamp(2.2rem, 5vw, 4.2rem);
+    margin: 0 0 16px;
+}
+
+.cta-section p {
+    font-size: 1.25rem;
+    margin-bottom: 30px;
+}
+
+.cta-section .primary-btn {
+    background: white;
+    color: #1f7188;
+}
